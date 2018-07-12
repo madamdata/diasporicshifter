@@ -4,3 +4,5 @@ Prerequisites - Maxlib library required. https://github.com/electrickery/pd-maxl
 
 
 pd must be run with the following command line argument- "-lib maxlib" 
+
+demo : https://www.instagram.com/p/BlGubKShvLZ/
